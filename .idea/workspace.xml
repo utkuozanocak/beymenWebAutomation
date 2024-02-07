@@ -4,21 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a95c3c9-f33d-44b3-821d-e74ab9618514" name="Changes" comment="" />
+    <list default="true" id="8a95c3c9-f33d-44b3-821d-e74ab9618514" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baseactions/BaseActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseactions/BaseActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/CardPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/CardPageObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/MainPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/MainPageObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/ProductDetailPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/ProductDetailPageObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/SearchResultPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/SearchResultPageObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ProductDetailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ProductDetailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stringvariables/CardPageStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stringvariables/CardPageStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stringvariables/CommonStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stringvariables/CommonStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stringvariables/MainPageStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stringvariables/MainPageStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stringvariables/ProductDetailPageStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stringvariables/ProductDetailPageStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stringvariables/SearchResultPageStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stringvariables/SearchResultPageStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BeymenTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BeymenTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2bzmlLSScJgvyYatJ4Lyw90ZtzG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,12 +58,66 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.BeymenTests.executor": "Run",
+    "JUnit.BeymenTests.searchProductAndBasketControlTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.beymenTestAutomation [clean].executor": "Run",
+    "Maven.beymenTestAutomation [compile].executor": "Run",
+    "Maven.beymenTestAutomation [install].executor": "Run",
+    "Maven.beymenTestAutomation [site].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/properties" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/utils" />
+      <recent name="$PROJECT_DIR$/src/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BeymenTests">
+    <configuration name="BeymenTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beymenTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.BeymenTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeymenTests.searchProductAndBasketControlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beymenTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.BeymenTests" />
+      <option name="METHOD_NAME" value="searchProductAndBasketControlTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BeymenTests" />
+        <item itemvalue="JUnit.BeymenTests.searchProductAndBasketControlTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,5 +128,42 @@
       <updated>1707226432832</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/CardPage.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/base/BaseTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/Configuration.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="System.getProperty(&quot;name&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
