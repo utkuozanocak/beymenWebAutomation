@@ -41,7 +41,7 @@
        - ProductDetailPageStrings.java
        - SearchResultPageStrings.java
   - resources
-   - log4j2.xml
+    - log4j2.xml
   - test
    - java
      - tests
