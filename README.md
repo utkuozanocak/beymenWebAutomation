@@ -4,11 +4,22 @@
   mvn test -Dpage=https://www.beymen.com/
 
 
-# Başlık 1
+# Table of Contents
+* JUnit
+* Maven
+* Log4j2
+* Java
+* IntelliJ
 
-Bu, README dosyasının ana başlığıdır. Buraya projenin genel tanımı, amacı veya kısa bir özeti yazılabilir.
-
-## Alt Başlık 1.1
+#Structure of Project
+- Madde 1
+  - Alt Madde A
+  - Alt Madde B
+- Madde 2
+  - Alt Madde C
+  - Alt Madde D
+- Madde 3
+  - Alt Madde E
 
 Bu, birinci seviye alt başlıktır. Bu seviyedeki başlıklar genellikle bir üst başlık altında detayları açıklamak için kullanılır.
 
