@@ -43,6 +43,6 @@
   - resources
     - log4j2.xml
   - test
-   - java
-     - tests
-       - BeymenTests.java
+    - java
+      - tests
+        - BeymenTests.java
