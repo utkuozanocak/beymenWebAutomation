@@ -11,7 +11,7 @@
 * Java
 * IntelliJ
 
-#Structure of Project
+# Structure of Project
 - logs
   - app.log
 - data
