@@ -12,42 +12,14 @@
 * IntelliJ
 
 #Structure of Project
-─ src
-
- ─ main
- 
-  ─ java
-  
-   ─ base
-    ─ BaseTest.java
-   ─ baseactions
-    ─ BaseActions.java
-   ─ pageobjects
-    ─ CardPageObjects.java
-    ─ MainPageObjects.java
-    ─ ProductDetailPageObjects.java
-    ─ SearchResultPageObjects.java
-  ─ pages
-    ─ CardPage.java
-    ─ MainPage.java
-    ─ ProductDetailPage.java
-    ─ SearchResultPage.java
-  ─ stringvariables 
-    ─ CardPageStrings.java
-    ─ CommonStrings.java
-    ─ MainPageStrings.java
-    ─ ProductDetailPageStrings.java
-    ─ SearchResultPageStrings.java
-  ─ resources
-    ─ log4j2.xml
- ─ test
-  ─ java
-   ─ tests
-    ─ BeymenTests.java
-─ testresultdata
- ─ 1707330179_DATA.txt
-- logs
- - app.log
+- Madde 1
+  - Alt Madde A
+  - Alt Madde B
+- Madde 2
+  - Alt Madde C
+  - Alt Madde D
+- Madde 3
+  - Alt Madde E
     
 Bu, birinci seviye alt başlıktır. Bu seviyedeki başlıklar genellikle bir üst başlık altında detayları açıklamak için kullanılır.
 
