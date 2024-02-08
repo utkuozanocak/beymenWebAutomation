@@ -20,8 +20,17 @@
   - main
    - java
      - base
-- Madde 3
-  - Alt Madde E
+     - baseactions
+     - pageobjects
+     - pages
+     - stringvariables
+  - resources
+   - log4j2.xml
+  - test
+   - java
+     - tests
+       - BeymenTests.java
+- testresultdata
     
 Bu, birinci seviye alt başlıktır. Bu seviyedeki başlıklar genellikle bir üst başlık altında detayları açıklamak için kullanılır.
 
