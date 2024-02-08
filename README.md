@@ -19,7 +19,7 @@
 - testresultdata
 - src
   - main
-    - java
+   - java
      - base
        - BaseTest.java
      - baseactions
