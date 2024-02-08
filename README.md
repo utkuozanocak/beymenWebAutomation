@@ -12,90 +12,39 @@
 * IntelliJ
 
 #Structure of Project
-├── beymenTestAutomation.iml
-├── config.properties
-├── data
-│ ├── testData.xlsx
-│ └── ~$testData.xlsx
-├── logs
-│ └── app.log
-├── pom.xml
-├── src
-│ ├── main
-│ │ └── java
-│ │ ├── base
-│ │ │ └── BaseTest.java
-│ │ ├── baseactions
-│ │ │ └── BaseActions.java
-│ │ ├── pageobjects
-│ │ │ ├── CardPageObjects.java
-│ │ │ ├── MainPageObjects.java
-│ │ │ ├── ProductDetailPageObjects.java
-│ │ │ └── SearchResultPageObjects.java
-│ │ ├── pages
-│ │ │ ├── CardPage.java
-│ │ │ ├── MainPage.java
-│ │ │ ├── ProductDetailPage.java
-│ │ │ └── SearchResultPage.java
-│ │ └── stringvariables
-│ │ ├── CardPageStrings.java
-│ │ ├── CommonStrings.java
-│ │ ├── MainPageStrings.java
-│ │ ├── ProductDetailPageStrings.java
-│ │ └── SearchResultPageStrings.java
-│ ├── resources
-│ │ └── log4j2.xml
-│ └── test
-│ └── java
-│ └── tests
-│ └── BeymenTests.java
-├── target
-│ ├── classes
-│ │ ├── base
-│ │ │ └── BaseTest.class
-│ │ ├── baseactions
-│ │ │ ├── BaseActions$1.class
-│ │ │ └── BaseActions.class
-│ │ ├── log4j2.xml
-│ │ ├── pageobjects
-│ │ │ ├── CardPageObjects.class
-│ │ │ ├── MainPageObjects.class
-│ │ │ ├── ProductDetailPageObjects.class
-│ │ │ └── SearchResultPageObjects.class
-│ │ ├── pages
-│ │ │ ├── CardPage.class
-│ │ │ ├── MainPage.class
-│ │ │ ├── ProductDetailPage.class
-│ │ │ └── SearchResultPage.class
-│ │ └── stringvariables
-│ │ ├── CardPageStrings.class
-│ │ ├── CommonStrings.class
-│ │ ├── MainPageStrings.class
-│ │ ├── ProductDetailPageStrings.class
-│ │ └── SearchResultPageStrings.class
-│ ├── generated-sources
-│ │ └── annotations
-│ ├── generated-test-sources
-│ │ └── test-annotations
-│ ├── maven-status
-│ │ └── maven-compiler-plugin
-│ │ ├── compile
-│ │ │ └── default-compile
-│ │ │ ├── createdFiles.lst
-│ │ │ └── inputFiles.lst
-│ │ └── testCompile
-│ │ └── default-testCompile
-│ │ ├── createdFiles.lst
-│ │ └── inputFiles.lst
-│ ├── surefire-reports
-│ │ ├── 2024-02-07T21-16-53_101-jvmRun1.dumpstream
-│ │ ├── TEST-tests.BeymenTests.xml
-│ │ └── tests.BeymenTests.txt
-│ └── test-classes
-│ └── tests
-│ └── BeymenTests.class
-└── testresultdata
-└── 1707330179_DATA.txt
+─ src
+ ─ main
+  ─ java
+   ─ base
+    ─ BaseTest.java
+   ─ baseactions
+    ─ BaseActions.java
+   ─ pageobjects
+    ─ CardPageObjects.java
+    ─ MainPageObjects.java
+    ─ ProductDetailPageObjects.java
+    ─ SearchResultPageObjects.java
+  ─ pages
+    ─ CardPage.java
+    ─ MainPage.java
+    ─ ProductDetailPage.java
+    ─ SearchResultPage.java
+  ─ stringvariables 
+    ─ CardPageStrings.java
+    ─ CommonStrings.java
+    ─ MainPageStrings.java
+    ─ ProductDetailPageStrings.java
+    ─ SearchResultPageStrings.java
+  ─ resources
+    ─ log4j2.xml
+ ─ test
+  ─ java
+   ─ tests
+    ─ BeymenTests.java
+─ testresultdata
+ ─ 1707330179_DATA.txt
+- logs
+ - app.log
     
 Bu, birinci seviye alt başlıktır. Bu seviyedeki başlıklar genellikle bir üst başlık altında detayları açıklamak için kullanılır.
 
