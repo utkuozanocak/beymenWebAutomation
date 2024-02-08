@@ -18,7 +18,7 @@
   - testData.xlsx
 - testresultdata
 - src
-  - main
+  * main
    - java
      - base
        - BaseTest.java
