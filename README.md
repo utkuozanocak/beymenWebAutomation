@@ -1,6 +1,6 @@
-# beymenWebAutomation
-  -test to run
-  
+# Beymen Web Test Automation
+
+# Launch
   mvn test -Dpage=https://www.beymen.com/
 
 
