@@ -13,8 +13,11 @@
 
 #Structure of Project
 ─ src
+
  ─ main
+ 
   ─ java
+  
    ─ base
     ─ BaseTest.java
    ─ baseactions
