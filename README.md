@@ -16,6 +16,7 @@
   - app.log
 - data
   - testData.xlsx
+- testresultdata
 - src
   - main
    - java
@@ -45,4 +46,3 @@
    - java
      - tests
        - BeymenTests.java
-- testresultdata
