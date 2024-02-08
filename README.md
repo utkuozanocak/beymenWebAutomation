@@ -23,3 +23,23 @@ Bu, birinci seviye alt başlıktır. İkinci bir alt başlık daha eklenmiştir.
 # Başlık 2
 
 Yeni bir ana başlık eklendi. README dosyasının yapısı, projenin gereksinimlerine ve organizasyonuna göre değişebilir.
+
+# Başlık
+
+Bu bir başlık altında madde listesi oluşturmanın bir örneğidir:
+
+- Madde 1
+- Madde 2
+- Madde 3
+
+Başka bir madde listesi:
+
+* Madde A
+* Madde B
+* Madde C
+
+Başka bir madde listesi:
+
+1. Madde I
+2. Madde II
+3. Madde III
