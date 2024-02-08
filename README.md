@@ -12,12 +12,14 @@
 * IntelliJ
 
 #Structure of Project
-- Madde 1
-  - Alt Madde A
-  - Alt Madde B
-- Madde 2
-  - Alt Madde C
-  - Alt Madde D
+- logs
+  - app.log
+- data
+  - testData.xlsx
+- src
+  - main
+   - java
+     - base
 - Madde 3
   - Alt Madde E
     
